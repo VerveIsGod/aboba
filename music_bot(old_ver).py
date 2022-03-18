@@ -25,7 +25,7 @@ depart = os.getcwd().replace("\\", "/")
 
 edt_path = f"{depart}/edt"
 
-music_dir = f"{depart}/Musica"
+music_dir = f"{depart}/Music"
 playlist_dir = f"{music_dir}/playlists"
 down_dir = f"{music_dir}/random"
 
